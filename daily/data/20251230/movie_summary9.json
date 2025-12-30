@@ -1,36 +1,25 @@
 {
+  "Sirai [2D | Tamil]": {
+    "shows": 294,
+    "gross": 2174946.1,
+    "sold": 15801,
+    "totalSeats": 105508,
+    "venues": 84,
+    "cities": 59,
+    "fastfilling": 11,
+    "housefull": 0,
+    "occupancy": 14.98
+  },
   "Avatar: Fire and Ash [3D | Tamil]": {
     "shows": 352,
-    "gross": 2885383.5,
-    "sold": 20225,
+    "gross": 2890543.5,
+    "sold": 20268,
     "totalSeats": 148040,
     "venues": 108,
     "cities": 70,
     "fastfilling": 12,
     "housefull": 0,
-    "occupancy": 13.66
-  },
-  "Eesha [2D | Telugu]": {
-    "shows": 158,
-    "gross": 792360.0,
-    "sold": 8712,
-    "totalSeats": 57228,
-    "venues": 50,
-    "cities": 40,
-    "fastfilling": 7,
-    "housefull": 0,
-    "occupancy": 15.22
-  },
-  "Shambhala [2D | Telugu]": {
-    "shows": 217,
-    "gross": 1486890.0,
-    "sold": 14083,
-    "totalSeats": 94003,
-    "venues": 67,
-    "cities": 54,
-    "fastfilling": 15,
-    "housefull": 0,
-    "occupancy": 14.98
+    "occupancy": 13.69
   },
   "Dhurandhar [2D | Hindi]": {
     "shows": 263,
@@ -42,6 +31,61 @@
     "fastfilling": 13,
     "housefull": 6,
     "occupancy": 13.87
+  },
+  "Shambhala [2D | Telugu]": {
+    "shows": 217,
+    "gross": 1492340.0,
+    "sold": 14109,
+    "totalSeats": 94003,
+    "venues": 67,
+    "cities": 54,
+    "fastfilling": 15,
+    "housefull": 0,
+    "occupancy": 15.01
+  },
+  "Avatar: Fire and Ash [3D | Hindi]": {
+    "shows": 31,
+    "gross": 259570.0,
+    "sold": 1129,
+    "totalSeats": 6492,
+    "venues": 13,
+    "cities": 13,
+    "fastfilling": 2,
+    "housefull": 1,
+    "occupancy": 17.39
+  },
+  "Tu Meri Main Tera Main Tera Tu Meri [2D | Hindi]": {
+    "shows": 90,
+    "gross": 568878.0,
+    "sold": 2919,
+    "totalSeats": 15491,
+    "venues": 35,
+    "cities": 31,
+    "fastfilling": 0,
+    "housefull": 8,
+    "occupancy": 18.84
+  },
+  "Sarvam Maya [2D | Malayalam]": {
+    "shows": 217,
+    "gross": 3749127.76,
+    "sold": 26708,
+    "totalSeats": 56787,
+    "venues": 42,
+    "cities": 38,
+    "fastfilling": 122,
+    "housefull": 2,
+    "occupancy": 47.03
+  },
+  "Eesha [2D | Telugu]": {
+    "shows": 158,
+    "gross": 792360.0,
+    "sold": 8712,
+    "totalSeats": 57228,
+    "venues": 50,
+    "cities": 40,
+    "fastfilling": 7,
+    "housefull": 0,
+    "occupancy": 15.22
   },
   "Akhanda 2: Thaandavam [2D | Telugu]": {
     "shows": 224,
@@ -65,17 +109,6 @@
     "housefull": 0,
     "occupancy": 21.78
   },
-  "Tu Meri Main Tera Main Tera Tu Meri [2D | Hindi]": {
-    "shows": 90,
-    "gross": 568878.0,
-    "sold": 2919,
-    "totalSeats": 15491,
-    "venues": 35,
-    "cities": 31,
-    "fastfilling": 0,
-    "housefull": 8,
-    "occupancy": 18.84
-  },
   "Avatar: Fire and Ash [2D | Telugu]": {
     "shows": 14,
     "gross": 12668.0,
@@ -97,17 +130,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 10.86
-  },
-  "Sirai [2D | Tamil]": {
-    "shows": 294,
-    "gross": 2142924.25,
-    "sold": 15566,
-    "totalSeats": 105508,
-    "venues": 84,
-    "cities": 59,
-    "fastfilling": 11,
-    "housefull": 0,
-    "occupancy": 14.75
   },
   "Retta Thala [2D | Tamil]": {
     "shows": 216,
@@ -174,17 +196,6 @@
     "fastfilling": 4,
     "housefull": 0,
     "occupancy": 59.51
-  },
-  "Sarvam Maya [2D | Malayalam]": {
-    "shows": 217,
-    "gross": 3731677.76,
-    "sold": 26600,
-    "totalSeats": 56787,
-    "venues": 42,
-    "cities": 38,
-    "fastfilling": 120,
-    "housefull": 2,
-    "occupancy": 46.84
   },
   "Patang [2D | Telugu]": {
     "shows": 9,
@@ -262,17 +273,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 0.0
-  },
-  "Avatar: Fire and Ash [3D | Hindi]": {
-    "shows": 31,
-    "gross": 258420.0,
-    "sold": 1124,
-    "totalSeats": 6492,
-    "venues": 13,
-    "cities": 13,
-    "fastfilling": 2,
-    "housefull": 1,
-    "occupancy": 17.31
   },
   "Laalo - Krishna Sada Sahaayate [2D | Gujarati]": {
     "shows": 7,
