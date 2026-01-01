@@ -1,25 +1,25 @@
 {
-  "Dhurandhar [2D | Hindi]": {
-    "shows": 1254,
-    "gross": 21156166.1,
-    "sold": 76733,
-    "totalSeats": 269462,
-    "venues": 238,
-    "cities": 77,
-    "fastfilling": 266,
-    "housefull": 47,
-    "occupancy": 28.48
-  },
   "Ikkis [2D | Hindi]": {
     "shows": 716,
-    "gross": 8728730.0,
-    "sold": 32344,
-    "totalSeats": 127663,
+    "gross": 8931210.0,
+    "sold": 33033,
+    "totalSeats": 127631,
     "venues": 166,
     "cities": 49,
-    "fastfilling": 141,
-    "housefull": 20,
-    "occupancy": 25.34
+    "fastfilling": 144,
+    "housefull": 21,
+    "occupancy": 25.88
+  },
+  "Dhurandhar [2D | Hindi]": {
+    "shows": 1254,
+    "gross": 21765005.9,
+    "sold": 78866,
+    "totalSeats": 269446,
+    "venues": 238,
+    "cities": 77,
+    "fastfilling": 276,
+    "housefull": 47,
+    "occupancy": 29.27
   },
   "Tere Ishk Mein [2D | Hindi]": {
     "shows": 11,
@@ -34,223 +34,190 @@
   },
   "45 [2D | Telugu]": {
     "shows": 17,
-    "gross": 202175.0,
-    "sold": 1409,
+    "gross": 208633.0,
+    "sold": 1456,
     "totalSeats": 4419,
     "venues": 6,
     "cities": 6,
     "fastfilling": 2,
     "housefull": 0,
-    "occupancy": 31.89
+    "occupancy": 32.95
   },
   "Champion [2D | Telugu]": {
     "shows": 47,
-    "gross": 651131.0,
-    "sold": 4270,
+    "gross": 673481.0,
+    "sold": 4429,
     "totalSeats": 15581,
     "venues": 22,
     "cities": 14,
     "fastfilling": 8,
     "housefull": 1,
-    "occupancy": 27.41
+    "occupancy": 28.43
   },
   "Fighter Shiva [2D | Telugu]": {
     "shows": 4,
-    "gross": 750.0,
-    "sold": 5,
+    "gross": 0.0,
+    "sold": 0,
     "totalSeats": 1132,
     "venues": 1,
     "cities": 1,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 0.44
-  },
-  "Akhanda 2: Thaandavam [2D | Telugu]": {
-    "shows": 36,
-    "gross": 664397.0,
-    "sold": 5477,
-    "totalSeats": 12046,
-    "venues": 11,
-    "cities": 9,
-    "fastfilling": 7,
-    "housefull": 3,
-    "occupancy": 45.47
-  },
-  "Sarvam Maya [2D | Malayalam]": {
-    "shows": 437,
-    "gross": 12481451.7,
-    "sold": 61612,
-    "totalSeats": 111003,
-    "venues": 91,
-    "cities": 28,
-    "fastfilling": 278,
-    "housefull": 8,
-    "occupancy": 55.5
-  },
-  "Vrusshabha [2D | Malayalam]": {
-    "shows": 16,
-    "gross": 29270.0,
-    "sold": 166,
-    "totalSeats": 2897,
-    "venues": 11,
-    "cities": 8,
-    "fastfilling": 1,
-    "housefull": 0,
-    "occupancy": 5.73
+    "occupancy": 0.0
   },
   "Eesha [2D | Telugu]": {
     "shows": 31,
-    "gross": 268971.0,
-    "sold": 2106,
+    "gross": 282051.0,
+    "sold": 2210,
     "totalSeats": 8228,
     "venues": 13,
     "cities": 7,
     "fastfilling": 5,
     "housefull": 0,
-    "occupancy": 25.6
-  },
-  "Vande Bharat Via USA [2D | Gujarati]": {
-    "shows": 11,
-    "gross": 48090.0,
-    "sold": 266,
-    "totalSeats": 1355,
-    "venues": 10,
-    "cities": 4,
-    "fastfilling": 1,
-    "housefull": 0,
-    "occupancy": 19.63
+    "occupancy": 26.86
   },
   "Avatar: Fire and Ash [3D | English]": {
     "shows": 146,
-    "gross": 3394065.6,
-    "sold": 10968,
+    "gross": 3504874.8,
+    "sold": 11323,
     "totalSeats": 27368,
     "venues": 63,
     "cities": 18,
     "fastfilling": 50,
     "housefull": 4,
-    "occupancy": 40.08
+    "occupancy": 41.37
   },
   "Tu Meri Main Tera Main Tera Tu Meri [2D | Hindi]": {
     "shows": 206,
-    "gross": 1654341.0,
-    "sold": 6075,
+    "gross": 1675351.0,
+    "sold": 6131,
     "totalSeats": 33437,
     "venues": 111,
     "cities": 34,
-    "fastfilling": 28,
+    "fastfilling": 29,
     "housefull": 2,
-    "occupancy": 18.17
+    "occupancy": 18.34
   },
   "Avatar: Fire and Ash [3D | Hindi]": {
     "shows": 171,
-    "gross": 3090303.0,
-    "sold": 10553,
+    "gross": 3140113.0,
+    "sold": 10708,
     "totalSeats": 33035,
     "venues": 93,
     "cities": 33,
     "fastfilling": 35,
     "housefull": 7,
-    "occupancy": 31.94
-  },
-  "Laalo - Krishna Sada Sahaayate [2D | Gujarati]": {
-    "shows": 33,
-    "gross": 165114.0,
-    "sold": 1019,
-    "totalSeats": 5441,
-    "venues": 19,
-    "cities": 5,
-    "fastfilling": 2,
-    "housefull": 0,
-    "occupancy": 18.73
+    "occupancy": 32.41
   },
   "Bicharo Bachelor [2D | Gujarati]": {
     "shows": 49,
-    "gross": 107400.0,
-    "sold": 519,
+    "gross": 108320.0,
+    "sold": 523,
     "totalSeats": 5828,
     "venues": 30,
     "cities": 7,
     "fastfilling": 4,
     "housefull": 0,
-    "occupancy": 8.91
+    "occupancy": 8.97
   },
   "Avatar: Fire and Ash [2D | Hindi]": {
     "shows": 32,
-    "gross": 166727.0,
-    "sold": 973,
+    "gross": 169087.0,
+    "sold": 984,
     "totalSeats": 6947,
     "venues": 22,
     "cities": 17,
     "fastfilling": 2,
     "housefull": 0,
-    "occupancy": 14.01
+    "occupancy": 14.16
+  },
+  "Vande Bharat Via USA [2D | Gujarati]": {
+    "shows": 11,
+    "gross": 51490.0,
+    "sold": 283,
+    "totalSeats": 1355,
+    "venues": 10,
+    "cities": 4,
+    "fastfilling": 2,
+    "housefull": 0,
+    "occupancy": 20.89
   },
   "Shambhala [2D | Telugu]": {
     "shows": 73,
-    "gross": 1381585.44,
-    "sold": 8641,
+    "gross": 1493840.44,
+    "sold": 9491,
     "totalSeats": 22510,
     "venues": 35,
     "cities": 17,
-    "fastfilling": 19,
+    "fastfilling": 22,
     "housefull": 5,
-    "occupancy": 38.39
+    "occupancy": 42.16
   },
   "Dhanesh Ke Aradhna [2D | Chattisgarhi]": {
     "shows": 8,
-    "gross": 23970.0,
-    "sold": 183,
+    "gross": 22390.0,
+    "sold": 170,
     "totalSeats": 2184,
     "venues": 2,
     "cities": 2,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 8.38
+    "occupancy": 7.78
   },
-  "Bha. Bha. Ba. [2D | Malayalam]": {
-    "shows": 96,
-    "gross": 198844.0,
-    "sold": 1159,
-    "totalSeats": 21224,
-    "venues": 40,
-    "cities": 17,
-    "fastfilling": 2,
-    "housefull": 0,
-    "occupancy": 5.46
+  "Sarvam Maya [2D | Malayalam]": {
+    "shows": 437,
+    "gross": 12678322.9,
+    "sold": 62562,
+    "totalSeats": 111003,
+    "venues": 91,
+    "cities": 28,
+    "fastfilling": 278,
+    "housefull": 9,
+    "occupancy": 56.36
   },
   "Avatar: Fire and Ash [3D | Tamil]": {
     "shows": 40,
-    "gross": 578785.9,
-    "sold": 3374,
+    "gross": 584147.7,
+    "sold": 3397,
     "totalSeats": 17483,
     "venues": 14,
     "cities": 10,
     "fastfilling": 7,
     "housefull": 2,
-    "occupancy": 19.3
+    "occupancy": 19.43
+  },
+  "Akhanda 2: Thaandavam [2D | Telugu]": {
+    "shows": 36,
+    "gross": 659988.0,
+    "sold": 5418,
+    "totalSeats": 12046,
+    "venues": 11,
+    "cities": 9,
+    "fastfilling": 6,
+    "housefull": 4,
+    "occupancy": 44.98
   },
   "Sirai [2D | Tamil]": {
     "shows": 66,
-    "gross": 1410854.15,
-    "sold": 7651,
+    "gross": 1461495.55,
+    "sold": 8070,
     "totalSeats": 16886,
     "venues": 26,
     "cities": 9,
     "fastfilling": 25,
-    "housefull": 9,
-    "occupancy": 45.31
+    "housefull": 10,
+    "occupancy": 47.79
   },
   "Mark [2D | Tamil]": {
     "shows": 22,
-    "gross": 75408.6,
-    "sold": 601,
+    "gross": 79688.6,
+    "sold": 636,
     "totalSeats": 8035,
     "venues": 8,
     "cities": 5,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 7.48
+    "occupancy": 7.92
   },
   "Gatha Vaibhavam [2D | Telugu]": {
     "shows": 8,
@@ -265,58 +232,47 @@
   },
   "Haal (Malayalam) [2D | Malayalam]": {
     "shows": 41,
-    "gross": 163722.6,
-    "sold": 932,
+    "gross": 172522.6,
+    "sold": 986,
     "totalSeats": 6711,
     "venues": 18,
     "cities": 10,
-    "fastfilling": 4,
+    "fastfilling": 5,
     "housefull": 0,
-    "occupancy": 13.89
+    "occupancy": 14.69
   },
   "Retta Thala [2D | Tamil]": {
     "shows": 10,
-    "gross": 141629.8,
-    "sold": 446,
+    "gross": 140352.0,
+    "sold": 439,
     "totalSeats": 3815,
     "venues": 7,
     "cities": 5,
     "fastfilling": 1,
     "housefull": 0,
-    "occupancy": 11.69
+    "occupancy": 11.51
   },
   "Murari (Telugu) [2D | Telugu]": {
     "shows": 8,
-    "gross": 69619.64,
-    "sold": 552,
+    "gross": 70981.64,
+    "sold": 566,
     "totalSeats": 2300,
     "venues": 5,
     "cities": 5,
     "fastfilling": 0,
     "housefull": 1,
-    "occupancy": 24.0
+    "occupancy": 24.61
   },
   "Padayappa [2D | Tamil]": {
     "shows": 4,
-    "gross": 30014.53,
-    "sold": 209,
+    "gross": 32026.98,
+    "sold": 220,
     "totalSeats": 1192,
     "venues": 2,
     "cities": 2,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 17.53
-  },
-  "The SpongeBob Movie: Search for SquarePants [3D | English]": {
-    "shows": 70,
-    "gross": 268600.0,
-    "sold": 824,
-    "totalSeats": 11575,
-    "venues": 38,
-    "cities": 10,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 7.12
+    "occupancy": 18.46
   },
   "Paruthi [2D | Tamil]": {
     "shows": 4,
@@ -329,181 +285,137 @@
     "housefull": 0,
     "occupancy": 0.0
   },
-  "Jalsa [2D | Telugu]": {
-    "shows": 12,
-    "gross": 56605.0,
-    "sold": 523,
-    "totalSeats": 4231,
-    "venues": 5,
-    "cities": 5,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 12.36
-  },
-  "Psych Siddhartha [2D | Telugu]": {
-    "shows": 26,
-    "gross": 218118.0,
-    "sold": 1626,
-    "totalSeats": 6079,
-    "venues": 16,
-    "cities": 6,
-    "fastfilling": 8,
-    "housefull": 0,
-    "occupancy": 26.75
-  },
   "Avatar: Fire and Ash [3D | Telugu]": {
     "shows": 17,
-    "gross": 145781.0,
-    "sold": 893,
+    "gross": 151118.0,
+    "sold": 924,
     "totalSeats": 4522,
     "venues": 5,
     "cities": 5,
     "fastfilling": 1,
     "housefull": 0,
-    "occupancy": 19.75
-  },
-  "Sahakutumbaanaam [2D | Telugu]": {
-    "shows": 12,
-    "gross": 56150.0,
-    "sold": 372,
-    "totalSeats": 3856,
-    "venues": 8,
-    "cities": 4,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 9.65
+    "occupancy": 20.43
   },
   "Mark [2D | Kannada]": {
     "shows": 232,
-    "gross": 7431892.0,
-    "sold": 31819,
-    "totalSeats": 93190,
+    "gross": 7676702.0,
+    "sold": 32997,
+    "totalSeats": 93200,
     "venues": 71,
     "cities": 3,
-    "fastfilling": 70,
+    "fastfilling": 73,
     "housefull": 13,
-    "occupancy": 34.14
+    "occupancy": 35.4
   },
   "45 [2D | Kannada]": {
     "shows": 213,
-    "gross": 4110600.0,
-    "sold": 20525,
-    "totalSeats": 96332,
+    "gross": 4205820.0,
+    "sold": 21031,
+    "totalSeats": 96352,
     "venues": 72,
     "cities": 3,
     "fastfilling": 41,
     "housefull": 3,
-    "occupancy": 21.31
+    "occupancy": 21.83
   },
   "The Housemaid [2D | English]": {
     "shows": 25,
-    "gross": 543270.0,
-    "sold": 1431,
+    "gross": 555070.0,
+    "sold": 1466,
     "totalSeats": 3344,
     "venues": 13,
     "cities": 6,
     "fastfilling": 10,
     "housefull": 1,
-    "occupancy": 42.79
+    "occupancy": 43.84
   },
   "The Devil [2D | Kannada]": {
     "shows": 23,
-    "gross": 421980.0,
-    "sold": 2387,
+    "gross": 426060.0,
+    "sold": 2411,
     "totalSeats": 8290,
     "venues": 16,
     "cities": 2,
-    "fastfilling": 7,
+    "fastfilling": 8,
     "housefull": 1,
-    "occupancy": 28.79
-  },
-  "Kalamkaval [2D | Malayalam]": {
-    "shows": 26,
-    "gross": 111685.6,
-    "sold": 585,
-    "totalSeats": 4070,
-    "venues": 16,
-    "cities": 6,
-    "fastfilling": 2,
-    "housefull": 0,
-    "occupancy": 14.37
+    "occupancy": 29.08
   },
   "45 [2D | Malayalam]": {
     "shows": 21,
-    "gross": 18639.8,
-    "sold": 97,
+    "gross": 20609.8,
+    "sold": 104,
     "totalSeats": 3781,
     "venues": 10,
     "cities": 3,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 2.57
+    "occupancy": 2.75
+  },
+  "Vrusshabha [2D | Malayalam]": {
+    "shows": 16,
+    "gross": 30230.0,
+    "sold": 172,
+    "totalSeats": 2897,
+    "venues": 11,
+    "cities": 8,
+    "fastfilling": 1,
+    "housefull": 0,
+    "occupancy": 5.94
   },
   "VanaVeera [2D | Telugu]": {
     "shows": 5,
-    "gross": 92004.0,
-    "sold": 985,
+    "gross": 94959.0,
+    "sold": 1018,
     "totalSeats": 2912,
     "venues": 2,
     "cities": 2,
     "fastfilling": 2,
     "housefull": 0,
-    "occupancy": 33.83
+    "occupancy": 34.96
   },
-  "Nuvvu Naaku Nachhav [2D | Telugu]": {
-    "shows": 10,
-    "gross": 84802.0,
-    "sold": 535,
-    "totalSeats": 2489,
-    "venues": 7,
-    "cities": 3,
-    "fastfilling": 1,
+  "Bha. Bha. Ba. [2D | Malayalam]": {
+    "shows": 96,
+    "gross": 202444.0,
+    "sold": 1180,
+    "totalSeats": 21224,
+    "venues": 40,
+    "cities": 17,
+    "fastfilling": 2,
     "housefull": 0,
-    "occupancy": 21.49
+    "occupancy": 5.56
   },
-  "45 [2D | Hindi]": {
-    "shows": 19,
-    "gross": 71632.0,
-    "sold": 303,
-    "totalSeats": 2997,
-    "venues": 15,
-    "cities": 11,
-    "fastfilling": 1,
-    "housefull": 1,
-    "occupancy": 10.11
-  },
-  "Zootopia 2 [3D | English]": {
-    "shows": 18,
-    "gross": 608615.0,
-    "sold": 1744,
-    "totalSeats": 2829,
-    "venues": 13,
-    "cities": 5,
-    "fastfilling": 10,
-    "housefull": 2,
-    "occupancy": 61.65
+  "Kalamkaval [2D | Malayalam]": {
+    "shows": 26,
+    "gross": 115945.6,
+    "sold": 605,
+    "totalSeats": 4070,
+    "venues": 16,
+    "cities": 6,
+    "fastfilling": 2,
+    "housefull": 0,
+    "occupancy": 14.86
   },
   "Avatar: Fire and Ash [IMAX 3D | English]": {
     "shows": 31,
-    "gross": 4197526.0,
-    "sold": 4878,
+    "gross": 4279406.0,
+    "sold": 4962,
     "totalSeats": 9004,
     "venues": 7,
     "cities": 2,
-    "fastfilling": 17,
+    "fastfilling": 18,
     "housefull": 0,
-    "occupancy": 54.18
+    "occupancy": 55.11
   },
   "Avatar: Fire and Ash [4DX 3D | English]": {
     "shows": 25,
-    "gross": 1374850.0,
-    "sold": 1926,
+    "gross": 1383800.0,
+    "sold": 1938,
     "totalSeats": 2450,
     "venues": 8,
     "cities": 4,
-    "fastfilling": 18,
-    "housefull": 4,
-    "occupancy": 78.61
+    "fastfilling": 20,
+    "housefull": 3,
+    "occupancy": 79.1
   },
   "Vrusshabha [2D | Hindi]": {
     "shows": 7,
@@ -518,25 +430,14 @@
   },
   "Avatar: Fire and Ash [4DX 3D | Hindi]": {
     "shows": 9,
-    "gross": 343120.0,
-    "sold": 610,
+    "gross": 347080.0,
+    "sold": 616,
     "totalSeats": 912,
     "venues": 3,
     "cities": 3,
-    "fastfilling": 6,
+    "fastfilling": 7,
     "housefull": 0,
-    "occupancy": 66.89
-  },
-  "The SpongeBob Movie: Search for SquarePants [2D | English]": {
-    "shows": 8,
-    "gross": 6020.0,
-    "sold": 23,
-    "totalSeats": 1257,
-    "venues": 6,
-    "cities": 6,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 1.83
+    "occupancy": 67.54
   },
   "Unko Sweater: The Woolen Sweater [2D | Nepali]": {
     "shows": 1,
@@ -548,6 +449,171 @@
     "fastfilling": 1,
     "housefull": 0,
     "occupancy": 89.71
+  },
+  "Sahakutumbaanaam [2D | Telugu]": {
+    "shows": 12,
+    "gross": 56150.0,
+    "sold": 372,
+    "totalSeats": 3856,
+    "venues": 8,
+    "cities": 4,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 9.65
+  },
+  "Avatar: Fire and Ash [MX4D 3D | Hindi]": {
+    "shows": 3,
+    "gross": 111750.0,
+    "sold": 172,
+    "totalSeats": 300,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 2,
+    "housefull": 0,
+    "occupancy": 57.33
+  },
+  "Avatar: Fire and Ash [2D | English]": {
+    "shows": 5,
+    "gross": 28926.7,
+    "sold": 112,
+    "totalSeats": 686,
+    "venues": 3,
+    "cities": 3,
+    "fastfilling": 1,
+    "housefull": 0,
+    "occupancy": 16.33
+  },
+  "Zootopia 2 [3D | English]": {
+    "shows": 18,
+    "gross": 610925.0,
+    "sold": 1750,
+    "totalSeats": 2829,
+    "venues": 13,
+    "cities": 5,
+    "fastfilling": 10,
+    "housefull": 2,
+    "occupancy": 61.86
+  },
+  "Projapati 2 [2D | Bengali]": {
+    "shows": 50,
+    "gross": 866135.0,
+    "sold": 6403,
+    "totalSeats": 12635,
+    "venues": 22,
+    "cities": 10,
+    "fastfilling": 18,
+    "housefull": 6,
+    "occupancy": 50.68
+  },
+  "Anaconda [2D | English]": {
+    "shows": 15,
+    "gross": 166210.0,
+    "sold": 490,
+    "totalSeats": 2126,
+    "venues": 11,
+    "cities": 4,
+    "fastfilling": 4,
+    "housefull": 0,
+    "occupancy": 23.05
+  },
+  "Dhamilo Pahad [2D | Nepali]": {
+    "shows": 2,
+    "gross": 21320.0,
+    "sold": 65,
+    "totalSeats": 220,
+    "venues": 2,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 29.55
+  },
+  "The SpongeBob Movie: Search for SquarePants [3D | English]": {
+    "shows": 70,
+    "gross": 269070.0,
+    "sold": 825,
+    "totalSeats": 11575,
+    "venues": 38,
+    "cities": 10,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 7.13
+  },
+  "Psych Siddhartha [2D | Telugu]": {
+    "shows": 26,
+    "gross": 216188.0,
+    "sold": 1618,
+    "totalSeats": 6079,
+    "venues": 16,
+    "cities": 6,
+    "fastfilling": 8,
+    "housefull": 0,
+    "occupancy": 26.62
+  },
+  "Nuvvu Naaku Nachhav [2D | Telugu]": {
+    "shows": 10,
+    "gross": 102232.0,
+    "sold": 647,
+    "totalSeats": 2489,
+    "venues": 7,
+    "cities": 3,
+    "fastfilling": 1,
+    "housefull": 0,
+    "occupancy": 25.99
+  },
+  "Eko [2D | Malayalam]": {
+    "shows": 2,
+    "gross": 14270.0,
+    "sold": 52,
+    "totalSeats": 248,
+    "venues": 2,
+    "cities": 2,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 20.97
+  },
+  "Laalo - Krishna Sada Sahaayate [2D | Gujarati]": {
+    "shows": 33,
+    "gross": 165114.0,
+    "sold": 1019,
+    "totalSeats": 5441,
+    "venues": 19,
+    "cities": 5,
+    "fastfilling": 2,
+    "housefull": 0,
+    "occupancy": 18.73
+  },
+  "Jalsa [2D | Telugu]": {
+    "shows": 12,
+    "gross": 56605.0,
+    "sold": 523,
+    "totalSeats": 4231,
+    "venues": 5,
+    "cities": 5,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 12.36
+  },
+  "45 [2D | Hindi]": {
+    "shows": 19,
+    "gross": 71632.0,
+    "sold": 303,
+    "totalSeats": 2997,
+    "venues": 15,
+    "cities": 11,
+    "fastfilling": 1,
+    "housefull": 1,
+    "occupancy": 10.11
+  },
+  "The SpongeBob Movie: Search for SquarePants [2D | English]": {
+    "shows": 8,
+    "gross": 6020.0,
+    "sold": 23,
+    "totalSeats": 1257,
+    "venues": 6,
+    "cities": 6,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 1.83
   },
   "Vaama: Ladai Sanmanachi [2D | Marathi]": {
     "shows": 4,
@@ -571,39 +637,6 @@
     "housefull": 0,
     "occupancy": 35.0
   },
-  "Avatar: Fire and Ash [MX4D 3D | Hindi]": {
-    "shows": 3,
-    "gross": 106990.0,
-    "sold": 165,
-    "totalSeats": 300,
-    "venues": 1,
-    "cities": 1,
-    "fastfilling": 1,
-    "housefull": 0,
-    "occupancy": 55.0
-  },
-  "Projapati 2 [2D | Bengali]": {
-    "shows": 50,
-    "gross": 865535.0,
-    "sold": 6401,
-    "totalSeats": 12635,
-    "venues": 22,
-    "cities": 10,
-    "fastfilling": 18,
-    "housefull": 6,
-    "occupancy": 50.66
-  },
-  "Avatar: Fire and Ash [2D | English]": {
-    "shows": 5,
-    "gross": 28926.7,
-    "sold": 112,
-    "totalSeats": 686,
-    "venues": 3,
-    "cities": 3,
-    "fastfilling": 1,
-    "housefull": 0,
-    "occupancy": 16.33
-  },
   "Mission Santa: Yoyo to the Rescue [2D | English]": {
     "shows": 4,
     "gross": 53830.0,
@@ -615,28 +648,6 @@
     "housefull": 0,
     "occupancy": 32.28
   },
-  "Anaconda [2D | English]": {
-    "shows": 15,
-    "gross": 163910.0,
-    "sold": 483,
-    "totalSeats": 2126,
-    "venues": 11,
-    "cities": 4,
-    "fastfilling": 4,
-    "housefull": 0,
-    "occupancy": 22.72
-  },
-  "Dhamilo Pahad [2D | Nepali]": {
-    "shows": 2,
-    "gross": 21320.0,
-    "sold": 65,
-    "totalSeats": 220,
-    "venues": 2,
-    "cities": 1,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 29.55
-  },
   "Mindiyum Paranjum [2D | Malayalam]": {
     "shows": 7,
     "gross": 15610.0,
@@ -647,17 +658,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 8.22
-  },
-  "Eko [2D | Malayalam]": {
-    "shows": 2,
-    "gross": 12110.0,
-    "sold": 43,
-    "totalSeats": 248,
-    "venues": 2,
-    "cities": 2,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 17.34
   },
   "Anaconda [2D | Hindi]": {
     "shows": 10,
