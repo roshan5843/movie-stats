@@ -1,35 +1,255 @@
 {
+  "Ikkis [2D | Hindi]": {
+    "shows": 57,
+    "gross": 143720.0,
+    "sold": 900,
+    "totalSeats": 10689,
+    "venues": 57,
+    "cities": 17,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 8.42
+  },
+  "Avatar: Fire and Ash [3D | Hindi]": {
+    "shows": 24,
+    "gross": 106038.0,
+    "sold": 446,
+    "totalSeats": 4947,
+    "venues": 24,
+    "cities": 10,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 9.02
+  },
+  "Dhurandhar [2D | Hindi]": {
+    "shows": 88,
+    "gross": 372017.0,
+    "sold": 1996,
+    "totalSeats": 20262,
+    "venues": 77,
+    "cities": 22,
+    "fastfilling": 1,
+    "housefull": 0,
+    "occupancy": 9.85
+  },
+  "Tu Meri Main Tera Main Tera Tu Meri [2D | Hindi]": {
+    "shows": 17,
+    "gross": 29780.0,
+    "sold": 170,
+    "totalSeats": 2964,
+    "venues": 17,
+    "cities": 7,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 5.74
+  },
   "Nuvvu Naaku Nachhav [2D | Telugu]": {
+    "shows": 1,
+    "gross": 19065.0,
+    "sold": 173,
+    "totalSeats": 340,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 1,
+    "housefull": 0,
+    "occupancy": 50.88
+  },
+  "Blind Date with Thalapathy Vijay [2D | Tamil]": {
+    "shows": 1,
+    "gross": 52100.0,
+    "sold": 521,
+    "totalSeats": 521,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 1,
+    "occupancy": 100.0
+  },
+  "Zootopia 2 [3D | English]": {
+    "shows": 2,
+    "gross": 3390.0,
+    "sold": 15,
+    "totalSeats": 242,
+    "venues": 2,
+    "cities": 2,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 6.2
+  },
+  "Psych Siddhartha [2D | Telugu]": {
+    "shows": 1,
+    "gross": 210.0,
+    "sold": 2,
+    "totalSeats": 181,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 1.1
+  },
+  "The SpongeBob Movie: Search for SquarePants [3D | English]": {
+    "shows": 2,
+    "gross": 6890.0,
+    "sold": 13,
+    "totalSeats": 137,
+    "venues": 2,
+    "cities": 2,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 9.49
+  },
+  "Avatar: Fire and Ash [2D | Hindi]": {
+    "shows": 2,
+    "gross": 4860.0,
+    "sold": 26,
+    "totalSeats": 471,
+    "venues": 2,
+    "cities": 2,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 5.52
+  },
+  "Laalo - Krishna Sada Sahaayate [2D | Gujarati]": {
+    "shows": 3,
+    "gross": 0.0,
+    "sold": 0,
+    "totalSeats": 530,
+    "venues": 3,
+    "cities": 2,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 0.0
+  },
+  "Zootopia 2 [3D | Hindi]": {
+    "shows": 1,
+    "gross": 420.0,
+    "sold": 2,
+    "totalSeats": 153,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 1.31
+  },
+  "Bicharo Bachelor [2D | Gujarati]": {
     "shows": 1,
     "gross": 0.0,
     "sold": 0,
-    "totalSeats": 501,
+    "totalSeats": 101,
     "venues": 1,
     "cities": 1,
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 0.0
   },
-  "Dhurandhar [2D | Hindi]": {
+  "Avatar: Fire and Ash [3D | English]": {
+    "shows": 7,
+    "gross": 25790.0,
+    "sold": 116,
+    "totalSeats": 1343,
+    "venues": 7,
+    "cities": 2,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 8.64
+  },
+  "Avatar: Fire and Ash [4DX 3D | English]": {
     "shows": 1,
-    "gross": 14000.0,
-    "sold": 70,
+    "gross": 38950.0,
+    "sold": 41,
+    "totalSeats": 96,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 42.71
+  },
+  "45 [2D | Kannada]": {
+    "shows": 1,
+    "gross": 1900.0,
+    "sold": 10,
     "totalSeats": 171,
     "venues": 1,
     "cities": 1,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 40.94
+    "occupancy": 5.85
   },
-  "Avatar: Fire and Ash [3D | Hindi]": {
+  "Uttar [2D | Marathi]": {
+    "shows": 1,
+    "gross": 7020.0,
+    "sold": 38,
+    "totalSeats": 157,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 24.2
+  },
+  "Zootopia 2 [2D | Hindi]": {
+    "shows": 1,
+    "gross": 2120.0,
+    "sold": 7,
+    "totalSeats": 202,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 3.47
+  },
+  "Krantijyoti Vidyalay Marathi Madhyam [2D | Marathi]": {
+    "shows": 1,
+    "gross": 6750.0,
+    "sold": 45,
+    "totalSeats": 258,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 17.44
+  },
+  "Zootopia 2 [2D | English]": {
+    "shows": 1,
+    "gross": 4500.0,
+    "sold": 23,
+    "totalSeats": 262,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 8.78
+  },
+  "Kali Maati [2D | Marathi]": {
     "shows": 1,
     "gross": 0.0,
     "sold": 0,
-    "totalSeats": 88,
+    "totalSeats": 147,
     "venues": 1,
     "cities": 1,
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 0.0
+  },
+  "Avatar: Fire and Ash [3D SCREEN X | English]": {
+    "shows": 1,
+    "gross": 13630.0,
+    "sold": 31,
+    "totalSeats": 286,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 10.84
+  },
+  "Projapati 2 [2D | Bengali]": {
+    "shows": 2,
+    "gross": 5861.0,
+    "sold": 36,
+    "totalSeats": 397,
+    "venues": 2,
+    "cities": 2,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 9.07
   }
 }
