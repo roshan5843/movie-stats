@@ -1,4 +1,48 @@
 {
+  "Dhurandhar [2D | Hindi]": {
+    "shows": 557,
+    "gross": 3665277.02,
+    "sold": 16030,
+    "totalSeats": 121321,
+    "venues": 136,
+    "cities": 71,
+    "fastfilling": 21,
+    "housefull": 0,
+    "occupancy": 13.21
+  },
+  "Avatar: Fire and Ash [3D | Hindi]": {
+    "shows": 86,
+    "gross": 705530.0,
+    "sold": 2611,
+    "totalSeats": 16633,
+    "venues": 50,
+    "cities": 29,
+    "fastfilling": 5,
+    "housefull": 0,
+    "occupancy": 15.7
+  },
+  "Ikkis [2D | Hindi]": {
+    "shows": 293,
+    "gross": 1479629.0,
+    "sold": 5955,
+    "totalSeats": 55994,
+    "venues": 71,
+    "cities": 41,
+    "fastfilling": 2,
+    "housefull": 1,
+    "occupancy": 10.64
+  },
+  "Shambhala [2D | Telugu]": {
+    "shows": 117,
+    "gross": 938922.0,
+    "sold": 7587,
+    "totalSeats": 40664,
+    "venues": 37,
+    "cities": 17,
+    "fastfilling": 10,
+    "housefull": 0,
+    "occupancy": 18.66
+  },
   "Sirai [2D | Tamil]": {
     "shows": 92,
     "gross": 1030779.9,
@@ -42,39 +86,6 @@
     "fastfilling": 2,
     "housefull": 0,
     "occupancy": 36.76
-  },
-  "Avatar: Fire and Ash [3D | Hindi]": {
-    "shows": 86,
-    "gross": 704430.0,
-    "sold": 2606,
-    "totalSeats": 16633,
-    "venues": 50,
-    "cities": 29,
-    "fastfilling": 5,
-    "housefull": 0,
-    "occupancy": 15.67
-  },
-  "Dhurandhar [2D | Hindi]": {
-    "shows": 557,
-    "gross": 3669257.02,
-    "sold": 16047,
-    "totalSeats": 121332,
-    "venues": 136,
-    "cities": 71,
-    "fastfilling": 21,
-    "housefull": 0,
-    "occupancy": 13.23
-  },
-  "Ikkis [2D | Hindi]": {
-    "shows": 293,
-    "gross": 1491379.0,
-    "sold": 5999,
-    "totalSeats": 56008,
-    "venues": 71,
-    "cities": 41,
-    "fastfilling": 2,
-    "housefull": 1,
-    "occupancy": 10.71
   },
   "Krantijyoti Vidyalay Marathi Madhyam [2D | Marathi]": {
     "shows": 16,
@@ -185,17 +196,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 7.53
-  },
-  "Shambhala [2D | Telugu]": {
-    "shows": 117,
-    "gross": 938922.0,
-    "sold": 7587,
-    "totalSeats": 40664,
-    "venues": 37,
-    "cities": 17,
-    "fastfilling": 10,
-    "housefull": 0,
-    "occupancy": 18.66
   },
   "Mark [2D | Telugu]": {
     "shows": 24,
