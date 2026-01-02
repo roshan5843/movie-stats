@@ -1,24 +1,200 @@
 {
+  "Ikkis [2D | Hindi]": {
+    "shows": 53,
+    "gross": 85250.0,
+    "sold": 506,
+    "totalSeats": 10063,
+    "venues": 53,
+    "cities": 15,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 5.03
+  },
   "Dhurandhar [2D | Hindi]": {
+    "shows": 84,
+    "gross": 281137.0,
+    "sold": 1234,
+    "totalSeats": 19934,
+    "venues": 72,
+    "cities": 21,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 6.19
+  },
+  "Avatar: Fire and Ash [3D | Hindi]": {
+    "shows": 23,
+    "gross": 61847.0,
+    "sold": 287,
+    "totalSeats": 4836,
+    "venues": 23,
+    "cities": 9,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 5.93
+  },
+  "Tu Meri Main Tera Main Tera Tu Meri [2D | Hindi]": {
+    "shows": 18,
+    "gross": 20620.0,
+    "sold": 99,
+    "totalSeats": 2618,
+    "venues": 18,
+    "cities": 8,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 3.78
+  },
+  "Bicharo Bachelor [2D | Gujarati]": {
+    "shows": 2,
+    "gross": 0.0,
+    "sold": 0,
+    "totalSeats": 155,
+    "venues": 2,
+    "cities": 2,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 0.0
+  },
+  "Zootopia 2 [3D | English]": {
     "shows": 1,
-    "gross": 10000.0,
-    "sold": 50,
-    "totalSeats": 171,
+    "gross": 2240.0,
+    "sold": 8,
+    "totalSeats": 142,
     "venues": 1,
     "cities": 1,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 29.24
+    "occupancy": 5.63
   },
-  "Avatar: Fire and Ash [3D | Hindi]": {
+  "The SpongeBob Movie: Search for SquarePants [3D | English]": {
+    "shows": 3,
+    "gross": 8940.0,
+    "sold": 22,
+    "totalSeats": 300,
+    "venues": 3,
+    "cities": 3,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 7.33
+  },
+  "Avatar: Fire and Ash [2D | Hindi]": {
+    "shows": 1,
+    "gross": 3960.0,
+    "sold": 22,
+    "totalSeats": 358,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 6.15
+  },
+  "Laalo - Krishna Sada Sahaayate [2D | Gujarati]": {
+    "shows": 3,
+    "gross": 0.0,
+    "sold": 0,
+    "totalSeats": 530,
+    "venues": 3,
+    "cities": 2,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 0.0
+  },
+  "Zootopia 2 [3D | Hindi]": {
     "shows": 1,
     "gross": 0.0,
     "sold": 0,
-    "totalSeats": 88,
+    "totalSeats": 153,
     "venues": 1,
     "cities": 1,
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 0.0
+  },
+  "45 [2D | Hindi]": {
+    "shows": 1,
+    "gross": 0.0,
+    "sold": 0,
+    "totalSeats": 134,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 0.0
+  },
+  "Avatar: Fire and Ash [3D | English]": {
+    "shows": 6,
+    "gross": 19390.0,
+    "sold": 82,
+    "totalSeats": 1177,
+    "venues": 6,
+    "cities": 2,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 6.97
+  },
+  "Avatar: Fire and Ash [4DX 3D | English]": {
+    "shows": 1,
+    "gross": 14000.0,
+    "sold": 20,
+    "totalSeats": 92,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 21.74
+  },
+  "Uttar [2D | Marathi]": {
+    "shows": 1,
+    "gross": 3340.0,
+    "sold": 20,
+    "totalSeats": 149,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 13.42
+  },
+  "Zootopia 2 [2D | Hindi]": {
+    "shows": 1,
+    "gross": 960.0,
+    "sold": 5,
+    "totalSeats": 202,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 2.48
+  },
+  "Zootopia 2 [2D | English]": {
+    "shows": 1,
+    "gross": 5400.0,
+    "sold": 28,
+    "totalSeats": 262,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 10.69
+  },
+  "Avatar: Fire and Ash [3D SCREEN X | English]": {
+    "shows": 1,
+    "gross": 10680.0,
+    "sold": 24,
+    "totalSeats": 286,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 8.39
+  },
+  "Projapati 2 [2D | Bengali]": {
+    "shows": 2,
+    "gross": 1080.0,
+    "sold": 6,
+    "totalSeats": 385,
+    "venues": 2,
+    "cities": 2,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 1.56
   }
 }
