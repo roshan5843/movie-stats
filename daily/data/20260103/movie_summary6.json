@@ -1,36 +1,157 @@
 {
   "Ikkis [2D | Hindi]": {
     "shows": 752,
-    "gross": 4895705.81,
-    "sold": 19087,
+    "gross": 5013725.81,
+    "sold": 19605,
     "totalSeats": 129649,
     "venues": 162,
     "cities": 66,
     "fastfilling": 39,
-    "housefull": 1,
-    "occupancy": 14.72
+    "housefull": 2,
+    "occupancy": 15.12
+  },
+  "Sarvam Maya [2D | Malayalam]": {
+    "shows": 163,
+    "gross": 3043393.91,
+    "sold": 18515,
+    "totalSeats": 39756,
+    "venues": 41,
+    "cities": 22,
+    "fastfilling": 81,
+    "housefull": 4,
+    "occupancy": 46.57
+  },
+  "Haal (Malayalam) [2D | Malayalam]": {
+    "shows": 16,
+    "gross": 31377.4,
+    "sold": 178,
+    "totalSeats": 2651,
+    "venues": 7,
+    "cities": 7,
+    "fastfilling": 1,
+    "housefull": 0,
+    "occupancy": 6.71
   },
   "Dhurandhar [2D | Hindi]": {
     "shows": 1295,
-    "gross": 11841354.02,
-    "sold": 47445,
+    "gross": 11919554.02,
+    "sold": 47745,
     "totalSeats": 259283,
     "venues": 240,
     "cities": 103,
-    "fastfilling": 119,
+    "fastfilling": 122,
     "housefull": 5,
-    "occupancy": 18.3
+    "occupancy": 18.41
   },
   "Sirai [2D | Tamil]": {
     "shows": 185,
-    "gross": 2572414.12,
-    "sold": 15970,
+    "gross": 2577560.52,
+    "sold": 15998,
     "totalSeats": 71435,
     "venues": 38,
     "cities": 12,
     "fastfilling": 39,
     "housefull": 1,
-    "occupancy": 22.36
+    "occupancy": 22.4
+  },
+  "45 [2D | Tamil]": {
+    "shows": 12,
+    "gross": 33873.3,
+    "sold": 240,
+    "totalSeats": 1941,
+    "venues": 8,
+    "cities": 4,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 12.36
+  },
+  "Tu Meri Main Tera Main Tera Tu Meri [2D | Hindi]": {
+    "shows": 174,
+    "gross": 690773.0,
+    "sold": 2875,
+    "totalSeats": 23594,
+    "venues": 98,
+    "cities": 36,
+    "fastfilling": 8,
+    "housefull": 0,
+    "occupancy": 12.19
+  },
+  "Avatar: Fire and Ash [4DX 3D | English]": {
+    "shows": 1,
+    "gross": 15680.0,
+    "sold": 32,
+    "totalSeats": 116,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 27.59
+  },
+  "Avatar: Fire and Ash [MX4D 3D | English]": {
+    "shows": 1,
+    "gross": 13000.0,
+    "sold": 26,
+    "totalSeats": 127,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 20.47
+  },
+  "Akhanda 2: Thaandavam [2D | Telugu]": {
+    "shows": 80,
+    "gross": 347055.0,
+    "sold": 3166,
+    "totalSeats": 22386,
+    "venues": 22,
+    "cities": 21,
+    "fastfilling": 4,
+    "housefull": 0,
+    "occupancy": 14.14
+  },
+  "Shambhala [2D | Telugu]": {
+    "shows": 85,
+    "gross": 519060.0,
+    "sold": 5357,
+    "totalSeats": 28730,
+    "venues": 26,
+    "cities": 25,
+    "fastfilling": 9,
+    "housefull": 2,
+    "occupancy": 18.65
+  },
+  "Avatar: Fire and Ash [3D | English]": {
+    "shows": 41,
+    "gross": 601569.08,
+    "sold": 2047,
+    "totalSeats": 7361,
+    "venues": 26,
+    "cities": 21,
+    "fastfilling": 10,
+    "housefull": 4,
+    "occupancy": 27.81
+  },
+  "Avatar: Fire and Ash [4DX 3D | Hindi]": {
+    "shows": 7,
+    "gross": 348030.0,
+    "sold": 658,
+    "totalSeats": 780,
+    "venues": 2,
+    "cities": 2,
+    "fastfilling": 4,
+    "housefull": 2,
+    "occupancy": 84.36
+  },
+  "Bicharo Bachelor [2D | Gujarati]": {
+    "shows": 100,
+    "gross": 502610.0,
+    "sold": 2474,
+    "totalSeats": 14297,
+    "venues": 53,
+    "cities": 7,
+    "fastfilling": 13,
+    "housefull": 0,
+    "occupancy": 17.3
   },
   "Mark [2D | Tamil]": {
     "shows": 57,
@@ -43,28 +164,6 @@
     "housefull": 0,
     "occupancy": 6.18
   },
-  "Sarvam Maya [2D | Malayalam]": {
-    "shows": 163,
-    "gross": 3040963.91,
-    "sold": 18498,
-    "totalSeats": 39756,
-    "venues": 41,
-    "cities": 22,
-    "fastfilling": 81,
-    "housefull": 4,
-    "occupancy": 46.53
-  },
-  "Haal (Malayalam) [2D | Malayalam]": {
-    "shows": 16,
-    "gross": 27627.4,
-    "sold": 153,
-    "totalSeats": 2651,
-    "venues": 7,
-    "cities": 7,
-    "fastfilling": 1,
-    "housefull": 0,
-    "occupancy": 5.77
-  },
   "Avatar: Fire and Ash [3D | Hindi]": {
     "shows": 211,
     "gross": 2196480.0,
@@ -75,17 +174,6 @@
     "fastfilling": 14,
     "housefull": 0,
     "occupancy": 19.11
-  },
-  "Avatar: Fire and Ash [3D | English]": {
-    "shows": 41,
-    "gross": 605859.08,
-    "sold": 2060,
-    "totalSeats": 7382,
-    "venues": 26,
-    "cities": 21,
-    "fastfilling": 10,
-    "housefull": 4,
-    "occupancy": 27.91
   },
   "Avatar: Fire and Ash [3D | Tamil]": {
     "shows": 92,
@@ -142,28 +230,6 @@
     "housefull": 0,
     "occupancy": 6.4
   },
-  "45 [2D | Tamil]": {
-    "shows": 12,
-    "gross": 34893.1,
-    "sold": 254,
-    "totalSeats": 1941,
-    "venues": 8,
-    "cities": 4,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 13.09
-  },
-  "Tu Meri Main Tera Main Tera Tu Meri [2D | Hindi]": {
-    "shows": 174,
-    "gross": 687633.0,
-    "sold": 2861,
-    "totalSeats": 23594,
-    "venues": 98,
-    "cities": 36,
-    "fastfilling": 7,
-    "housefull": 0,
-    "occupancy": 12.13
-  },
   "45 [2D | Telugu]": {
     "shows": 25,
     "gross": 21230.0,
@@ -175,17 +241,6 @@
     "housefull": 0,
     "occupancy": 2.75
   },
-  "Avatar: Fire and Ash [4DX 3D | English]": {
-    "shows": 1,
-    "gross": 20580.0,
-    "sold": 42,
-    "totalSeats": 116,
-    "venues": 1,
-    "cities": 1,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 36.21
-  },
   "Avatar: Fire and Ash [IMAX 3D | English]": {
     "shows": 9,
     "gross": 1122497.36,
@@ -196,39 +251,6 @@
     "fastfilling": 7,
     "housefull": 0,
     "occupancy": 68.9
-  },
-  "Avatar: Fire and Ash [MX4D 3D | English]": {
-    "shows": 1,
-    "gross": 7500.0,
-    "sold": 15,
-    "totalSeats": 127,
-    "venues": 1,
-    "cities": 1,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 11.81
-  },
-  "Akhanda 2: Thaandavam [2D | Telugu]": {
-    "shows": 80,
-    "gross": 347055.0,
-    "sold": 3166,
-    "totalSeats": 22386,
-    "venues": 22,
-    "cities": 21,
-    "fastfilling": 4,
-    "housefull": 0,
-    "occupancy": 14.14
-  },
-  "Shambhala [2D | Telugu]": {
-    "shows": 85,
-    "gross": 519060.0,
-    "sold": 5357,
-    "totalSeats": 28730,
-    "venues": 26,
-    "cities": 25,
-    "fastfilling": 9,
-    "housefull": 2,
-    "occupancy": 18.65
   },
   "Mark [2D | Kannada]": {
     "shows": 37,
@@ -285,17 +307,6 @@
     "housefull": 0,
     "occupancy": 32.6
   },
-  "Bicharo Bachelor [2D | Gujarati]": {
-    "shows": 100,
-    "gross": 502360.0,
-    "sold": 2473,
-    "totalSeats": 14297,
-    "venues": 53,
-    "cities": 7,
-    "fastfilling": 13,
-    "housefull": 0,
-    "occupancy": 17.3
-  },
   "The Housemaid [2D | English]": {
     "shows": 9,
     "gross": 123564.72,
@@ -306,17 +317,6 @@
     "fastfilling": 4,
     "housefull": 0,
     "occupancy": 38.3
-  },
-  "Avatar: Fire and Ash [4DX 3D | Hindi]": {
-    "shows": 7,
-    "gross": 319360.0,
-    "sold": 611,
-    "totalSeats": 732,
-    "venues": 2,
-    "cities": 2,
-    "fastfilling": 4,
-    "housefull": 2,
-    "occupancy": 83.47
   },
   "Vande Bharat Via USA [2D | Gujarati]": {
     "shows": 27,
