@@ -1,6 +1,24 @@
 [
   {
     "movie": "Sirai [2D | Tamil]",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "venue": "Kamala Cinemas 4K RGB Laser, Vadapalani, Chennai",
+    "address": "156, Arcot Road, Vadapalani, Chennai, Tamil Nadu 600026, India",
+    "time": "11:55 PM",
+    "audi": "SCREEN1",
+    "session_id": "",
+    "totalSeats": 606,
+    "available": 18,
+    "sold": 588,
+    "gross": 68990.1,
+    "minsLeft": -13.8,
+    "source": "District",
+    "date": "20260103",
+    "chain": "Kamala Theatre"
+  },
+  {
+    "movie": "Sirai [2D | Tamil]",
     "city": "Alangulam",
     "state": "Tamil Nadu",
     "venue": "TPV Multiplex 3D 4K Dolby Atmos Silver Screen, Alangulam",
@@ -16,24 +34,6 @@
     "source": "District",
     "date": "20260103",
     "chain": "Tpv Multiplex"
-  },
-  {
-    "movie": "Sirai [2D | Tamil]",
-    "city": "Chennai",
-    "state": "Tamil Nadu",
-    "venue": "Kamala Cinemas 4K RGB Laser, Vadapalani, Chennai",
-    "address": "156, Arcot Road, Vadapalani, Chennai, Tamil Nadu 600026, India",
-    "time": "11:55 PM",
-    "audi": "SCREEN1",
-    "session_id": "",
-    "totalSeats": 606,
-    "available": 179,
-    "sold": 427,
-    "gross": 50063.5,
-    "minsLeft": 52.3,
-    "source": "District",
-    "date": "20260103",
-    "chain": "Kamala Theatre"
   },
   {
     "movie": "Avatar: Fire and Ash [3D | Tamil]",
