@@ -1,4 +1,48 @@
 {
+  "Dhurandhar [2D | Hindi]": {
+    "shows": 571,
+    "gross": 4529120.75,
+    "sold": 19641,
+    "totalSeats": 121808,
+    "venues": 137,
+    "cities": 72,
+    "fastfilling": 38,
+    "housefull": 3,
+    "occupancy": 16.12
+  },
+  "Avatar: Fire and Ash [3D | Hindi]": {
+    "shows": 89,
+    "gross": 963440.0,
+    "sold": 3564,
+    "totalSeats": 17277,
+    "venues": 51,
+    "cities": 29,
+    "fastfilling": 5,
+    "housefull": 0,
+    "occupancy": 20.63
+  },
+  "Ikkis [2D | Hindi]": {
+    "shows": 287,
+    "gross": 1779869.0,
+    "sold": 7164,
+    "totalSeats": 54148,
+    "venues": 71,
+    "cities": 41,
+    "fastfilling": 8,
+    "housefull": 0,
+    "occupancy": 13.23
+  },
+  "Kaakaa [2D | Tamil]": {
+    "shows": 2,
+    "gross": 0.0,
+    "sold": 0,
+    "totalSeats": 416,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 0.0
+  },
   "Sirai [2D | Tamil]": {
     "shows": 93,
     "gross": 1364821.25,
@@ -9,6 +53,28 @@
     "fastfilling": 15,
     "housefull": 0,
     "occupancy": 24.52
+  },
+  "Sarvam Maya [2D | Malayalam]": {
+    "shows": 106,
+    "gross": 2150640.46,
+    "sold": 13905,
+    "totalSeats": 25072,
+    "venues": 26,
+    "cities": 18,
+    "fastfilling": 63,
+    "housefull": 3,
+    "occupancy": 55.46
+  },
+  "Shambhala [2D | Telugu]": {
+    "shows": 123,
+    "gross": 1076319.0,
+    "sold": 8526,
+    "totalSeats": 42381,
+    "venues": 38,
+    "cities": 18,
+    "fastfilling": 12,
+    "housefull": 0,
+    "occupancy": 20.12
   },
   "Avatar: Fire and Ash [3D | Tamil]": {
     "shows": 73,
@@ -31,39 +97,6 @@
     "fastfilling": 3,
     "housefull": 0,
     "occupancy": 37.07
-  },
-  "Avatar: Fire and Ash [3D | Hindi]": {
-    "shows": 89,
-    "gross": 960920.0,
-    "sold": 3555,
-    "totalSeats": 17277,
-    "venues": 51,
-    "cities": 29,
-    "fastfilling": 5,
-    "housefull": 0,
-    "occupancy": 20.58
-  },
-  "Dhurandhar [2D | Hindi]": {
-    "shows": 571,
-    "gross": 4530360.75,
-    "sold": 19647,
-    "totalSeats": 121808,
-    "venues": 137,
-    "cities": 72,
-    "fastfilling": 38,
-    "housefull": 3,
-    "occupancy": 16.13
-  },
-  "Ikkis [2D | Hindi]": {
-    "shows": 287,
-    "gross": 1780769.0,
-    "sold": 7164,
-    "totalSeats": 54148,
-    "venues": 71,
-    "cities": 41,
-    "fastfilling": 8,
-    "housefull": 0,
-    "occupancy": 13.23
   },
   "Krantijyoti Vidyalay Marathi Madhyam [2D | Marathi]": {
     "shows": 15,
@@ -108,28 +141,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 10.2
-  },
-  "Kaakaa [2D | Tamil]": {
-    "shows": 2,
-    "gross": 0.0,
-    "sold": 0,
-    "totalSeats": 416,
-    "venues": 1,
-    "cities": 1,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 0.0
-  },
-  "Sarvam Maya [2D | Malayalam]": {
-    "shows": 106,
-    "gross": 2149440.46,
-    "sold": 13897,
-    "totalSeats": 25072,
-    "venues": 26,
-    "cities": 18,
-    "fastfilling": 63,
-    "housefull": 3,
-    "occupancy": 55.43
   },
   "45 [2D | Tamil]": {
     "shows": 11,
@@ -185,17 +196,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 7.51
-  },
-  "Shambhala [2D | Telugu]": {
-    "shows": 123,
-    "gross": 1076319.0,
-    "sold": 8526,
-    "totalSeats": 42381,
-    "venues": 38,
-    "cities": 18,
-    "fastfilling": 12,
-    "housefull": 0,
-    "occupancy": 20.12
   },
   "Mark [2D | Telugu]": {
     "shows": 21,
